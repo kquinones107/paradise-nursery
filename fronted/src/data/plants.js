@@ -5,7 +5,7 @@ const plants = [
       description: 'Planta aromática ideal para infusiones y cocteles.',
       price: 12000,
       category: 'Aromáticas',
-      image: 'https://cdn.pixabay.com/photo/2016/06/18/17/42/mint-1463421_1280.jpg',
+      image: 'https://media.admagazine.com/photos/618a61cc2f01962557ac402d/master/w_1600%2Cc_limit/83667.jpg',
     },
     {
       id: 2,
@@ -13,7 +13,7 @@ const plants = [
       description: 'Planta medicinal con propiedades digestivas y relajantes.',
       price: 10000,
       category: 'Medicinales',
-      image: 'https://cdn.pixabay.com/photo/2020/05/08/07/20/rosemary-5143782_1280.jpg',
+      image: 'https://cdn0.ecologiaverde.com/es/posts/3/9/2/propiedades_del_romero_para_que_sirve_y_como_prepararlo_3293_600.jpg',
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ const plants = [
       description: 'Planta decorativa y relajante con aroma floral.',
       price: 15000,
       category: 'Aromáticas',
-      image: 'https://cdn.pixabay.com/photo/2016/08/20/21/12/lavender-1603486_1280.jpg',
+      image: 'https://www.tododisca.com/wp-content/uploads/2023/11/cuidados-planta-lavanda-1.jpg',
     },
   ];
   
