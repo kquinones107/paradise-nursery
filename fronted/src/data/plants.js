@@ -23,6 +23,30 @@ const plants = [
       category: 'Aromáticas',
       image: 'https://www.tododisca.com/wp-content/uploads/2023/11/cuidados-planta-lavanda-1.jpg',
     },
+    {
+      id: 4,
+      name: 'Aloe Vera',
+      description: 'Planta medicinal conocida por sus propiedades curativas.',
+      price: 20000,
+      category: 'Medicinales',
+      image: 'https://sicarfarms.com/wp-content/uploads/2021/01/Aloe-Vera.png',
+    },
+    {
+      id: 5,
+      name: 'Albahaca',
+      description: 'Planta aromática ideal para ensaladas y salsas.',
+      price: 12000,
+      category: 'Aromáticas',
+      image: 'https://www.herbazest.com/imgs/d/2/a/552284/albahaca.jpg',
+    },
+    {
+      id: 6,
+      name: 'Manzanilla',
+      description: 'Planta medicinal ideal para infusiones relajantes.',
+      price: 10000,
+      category: 'Medicinales',
+      image: 'https://gardenweb.es/www/book/imagenes/109/camomila-manzanilla-maceta-gardenweb.jpg',
+    },
   ];
   
   export default plants;
